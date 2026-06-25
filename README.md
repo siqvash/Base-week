@@ -10,3 +10,14 @@ RWAs.
 Every asset. Onchain.
 
 ➥ Enterprise-grade private transactions are now live.
+Institutions can now trade, settle, and move capital confidentially on Base.
+
+➥ Base App is coming to desktop.
+
+More chains.
+More markets.
+Bigger reach.
+
+➥ Base MCP is scaling agents.
+
+Agents can now prepare swaps, lending, and borrowing across top apps
